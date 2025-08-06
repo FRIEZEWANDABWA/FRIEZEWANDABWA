@@ -1,3 +1,5 @@
+![Frieze Wandabwa GitHub Banner](./github-banner.png)
+
 👋 Hi, I'm Frieze Wandabwa
 
 🎯 IT Manager | AI & Cloud Enthusiast | Digital Transformation Architect**
