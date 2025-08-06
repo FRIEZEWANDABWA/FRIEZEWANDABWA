@@ -1,42 +1,45 @@
-# 👋 Hi, I'm Frieze Wandabwa
+👋 Hi, I'm Frieze Wandabwa
 
-🚀 Tech Innovator | 💻 IT Manager | 🌐 Full-Stack & AI Enthusiast  
-Passionate about solving problems using technology. I build and manage scalable digital solutions for real-world impact.
+🎯 IT Manager | AI & Cloud Enthusiast | Digital Transformation Architect**
 
-🔧 What I Do
-- 🌍 Building digital transformation projects for underserved communities
-- 💡 Creating AI-powered tools, bots & automation workflows
-- 🧠 Learning and applying machine learning & prompt engineering
-- 🌐 Designing and deploying modern websites & applications
+I'm a tech-driven problem solver with a passion for building scalable, inclusive, and future-ready digital solutions. 
+With a solid background in IT infrastructure, networking, and software engineering, I’m currently focused on creating impact through AI, open-source, and community-led innovation.
 
- 📦 Projects I'm Working On
-- 💬 WhatsApp-based Flight Booking Assistant
-- 📡 Free Wi-Fi Networks with Smart Content Delivery
-- 🧑‍💻 Digital Skills Empowerment Platform (Youth Training Centers)
-- 📈 AI-driven Network Monitoring Tools
 
-🌱 Currently Learning
-- Prompt Engineering for AI
-- Advanced Node.js & Microservices
-- DevOps and CI/CD best practices
+ 🚀 What I’m Currently Working On
+- 🛫 **WhatsApp-Based Flight Booking Assistant** – Automating travel inquiries with AI & chatbots
+- 🌍 **Digital Bungoma Transformation Plan** – Free public Wi-Fi, youth learning hubs, and impact tech
+- 🌐 **Freelance Tech Studio Website** – Building and deploying modern websites for small businesses
+- 🧠 **AI Projects** – Custom GPT bots, network monitoring tools, intelligent access control systems
 
- 🔗 Let's Connect
-- 🌐 [friezewandabwa.it.com](https://www.friezewandabwa.it.com)
+ 🧰 Tech Stack
+`JavaScript` `Node.js` `React` `Express` `MySQL`  
+`Python` `Flask` `AI APIs` `Linux`  
+`Networking & Security` `Docker` `Git` `CI/CD` `Netlify` `Cloudflare`
+
+
+ 🌱 I’m Currently Learning
+- Prompt engineering & GPT agent design
+- Machine learning for practical automation
+- DevOps (Docker, GitHub Actions, CI/CD pipelines)
+- Monetizing AI tools & digital platforms
+
+
+📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=friezewandabwa&show_icons=true&theme=radical&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=friezewandabwa&layout=compact&theme=radical)
+
+
+ 💡 Vision
+> _“Technology is not just a tool – it's a bridge to unlock potential. My mission is to build systems that empower youth, enable businesses, and transform communities.”_
+
+
+ 🌐 Let's Connect
+- 🌍 [Personal Website](https://www.friezewandabwa.it.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/frieze-wandabwa-224383178/)
-- 📨 friezekw@gmail.com
+- 📬 Email: friezekw@gmail.com
+- 📱 WhatsApp: +254 718 300236
 
 
-<!--
-**FRIEZEWANDABWA/FRIEZEWANDABWA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> ⭐️ _Open to collaborations, consulting, and speaking opportunities in IT strategy, AI adoption, and digital infrastructure design._
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
