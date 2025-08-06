@@ -24,7 +24,7 @@ With a solid background in IT infrastructure, networking, and software engineeri
 
 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=friezewandabwa&show_icons=true&theme=radical&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=friezewandabwa&show_icons=true&theme=radical&count_private=true&cache_seconds=60)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=friezewandabwa&layout=compact&theme=radical)
 
 
