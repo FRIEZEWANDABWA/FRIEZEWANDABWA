@@ -1,4 +1,4 @@
-![Frieze Wandabwa GitHub Banner](./github-banner.png)
+![Frieze Wandabwa GitHub Banner](./github-banner.png.png)
 
 👋 Hi, I'm Frieze Wandabwa
 
