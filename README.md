@@ -22,8 +22,8 @@ With a solid background in IT infrastructure, networking, and software engineeri
 - DevOps (Docker, GitHub Actions, CI/CD pipelines)
 - Monetizing AI tools & digital platforms
 
-
 📈 GitHub Stats
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=friezewandabwa&show_icons=true&theme=radical&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=friezewandabwa&layout=compact&theme=radical)
 
