@@ -1,43 +1,57 @@
 ![Frieze Wandabwa GitHub Banner](./github-banner.png.png)
 
-I'm a tech-driven problem solver with a passion for building scalable, inclusive, and future-ready digital solutions. 
-With a solid background in IT infrastructure, networking, and software engineering, I’m currently focused on creating impact through AI, open-source, and community-led innovation.
+# Frieze Wandabwa
 
+🚀 IT Manager | Cybersecurity Professional | AI & Infrastructure Specialist
 
- 🚀 What I’m Currently Working On
-- 🛫 WhatsApp-Based Flight Booking Assistant** – Automating travel inquiries with AI & chatbots
-- 🌍 Digital Bungoma Transformation Plan** – Free public Wi-Fi, youth learning hubs, and impact tech
-- 🌐 Freelance Tech Studio Website** – Building and deploying modern websites for small businesses
-- 🧠 AI Projects** – Custom GPT bots, network monitoring tools, intelligent access control systems
+I am a technology leader focused on building secure, scalable, and future-ready digital solutions across enterprise IT, cybersecurity, cloud infrastructure, and AI-driven automation.
 
- 🧰 Tech Stack
-`JavaScript` `Node.js` `React` `Express` `MySQL`  
-`Python` `Flask` `AI APIs` `Linux`  
-`Networking & Security` `Docker` `Git` `CI/CD` `Netlify` `Cloudflare`
+With strong experience supporting private sector organizations, government institutions, and global partners including AWS, Safaricom, Cisco, Communication Authority of Kenya, Kenya Civil Aviation Authority, GIZ, Airtel, and Kofisi Africa, I specialize in delivering reliable systems that improve operations, security, and business efficiency.
 
+## 🚀 Current Focus
 
- 🌱 I’m Currently Learning
-- Prompt engineering & GPT agent design
-- Machine learning for practical automation
-- DevOps (Docker, GitHub Actions, CI/CD pipelines)
-- Monetizing AI tools & digital platforms
+* AI-powered workflow automation
+* Cybersecurity operations and infrastructure protection
+* Cloud systems and enterprise IT management
+* Smart digital transformation projects
+* Open-source tools for productivity and operations
+
+## 🧠 Key Projects
+
+* WhatsApp-Based Flight Booking Assistant
+* Smart Agriculture Monitoring System
+* Executive Interview Preparation Platform
+* Digital County Transformation Solutions
+* Enterprise Network Monitoring Tools
+* Intelligent Access Control Systems
+
+## 🛠 Core Stack
+
+**Infrastructure & Security:**
+Networking, Firewalls, Microsoft 365, Cloud Management, Backup & Recovery, Linux, Active Directory
+
+**Development & Automation:**
+Python, JavaScript, TypeScript, React, Node.js, Express, MySQL, Docker, GitHub Actions, CI/CD
+
+**AI & Innovation:**
+Prompt Engineering, GPT Systems, Workflow Automation, AI Assistants, Intelligent Business Systems
+
+## 💡 Vision
+
+Technology should create access, security, and opportunity.
+
+My mission is to design systems that empower businesses, strengthen institutions, and create meaningful impact through secure and intelligent digital transformation.
 
 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=friezewandabwa&show_icons=true&theme=radical&count_private=true&cache_seconds=60)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=friezewandabwa&layout=compact&theme=radical)
 
+## 🌐 Connect With Me
 
- 💡 Vision
-> _“Technology is not just a tool – it's a bridge to unlock potential. My mission is to build systems that empower youth, enable businesses, and transform communities.”_
+🌍 Portfolio: [www.friezewandabwa.com](http://www.friezewandabwa.com)
+💼 LinkedIn
+📧 Email: [friezekw@gmail.com](mailto:friezekw@gmail.com)
+📱 WhatsApp: +254 718 300236
 
-
- 🌐 Let's Connect
-- 🌍 [Personal Website](https://www.friezewandabwa.it.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/frieze-wandabwa-224383178/)
-- 📬 Email: friezekw@gmail.com
-- 📱 WhatsApp: +254 718 300236
-
-
-> ⭐️ _Open to collaborations, consulting, and speaking opportunities in IT strategy, AI adoption, and digital infrastructure design._
-
+⭐ Open to consulting, leadership roles, digital transformation projects, and strategic technology partnerships.
